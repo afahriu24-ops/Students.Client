@@ -1,7 +1,7 @@
-h1.welcomeCls{
-    color:red;
+h1.welcomeCls {
+    color: #2563eb;
 }
 
-h1#helloWorld{
-    color:blue;
+h1#helloWorld {
+    color: #16a34a;
 }
